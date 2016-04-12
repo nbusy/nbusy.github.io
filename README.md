@@ -1,2 +1,3 @@
-# nbusy.github.io
-http://nbusy.com
+# NBusy Web Site
+
+Static NBusy web site and application graphics.
